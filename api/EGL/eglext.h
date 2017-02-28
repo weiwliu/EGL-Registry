@@ -805,6 +805,7 @@ EGLAPI EGLBoolean EGLAPIENTRY eglStreamConsumerOutputEXT (EGLDisplay dpy, EGLStr
 #define EGL_SMPTE2086_WHITE_POINT_Y_EXT   0x3348
 #define EGL_SMPTE2086_MAX_LUMINANCE_EXT   0x3349
 #define EGL_SMPTE2086_MIN_LUMINANCE_EXT   0x334A
+#define EGL_METADATA_SCALING_EXT 50000
 #endif /* EGL_EXT_surface_SMPTE2086_metadata */
 
 #ifndef EGL_EXT_swap_buffers_with_damage
